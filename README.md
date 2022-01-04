@@ -22,5 +22,11 @@
 
 ### 4.1 Statement of Java
 
+## 5. Definition of OOP
+
+### 5.1 Definition of OOP
+
+### 5.2 Definition of OOL
+
 ---
 
