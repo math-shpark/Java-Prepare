@@ -26,7 +26,7 @@
 
 ### 5.1 Definition of OOP
 
-### 5.2 Definition of OOL
+### 5.2 Language of OOP
 
 ---
 
