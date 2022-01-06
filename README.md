@@ -28,5 +28,11 @@
 
 ### 5.2 Language of OOP
 
+## 6. Structure of Class and Creation of Object
+
+### 6.1 Structure of Class and Creation of Object
+
+### 6.2 Methods
+
 ---
 
