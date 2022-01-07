@@ -34,5 +34,11 @@
 
 ### 6.2 Methods
 
+## 7. Java Modifier and Constructor
+
+### 7.1 Modifier
+
+### 7.2 Constructor
+
 ---
 
