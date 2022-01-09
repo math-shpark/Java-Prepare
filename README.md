@@ -46,5 +46,11 @@
 
 ### 8.2 Variable
 
+## 9. Inheritance of Java
+
+### 9.1 Inheritance
+
+### 9.2 Member
+
 ---
 
