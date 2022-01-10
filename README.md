@@ -52,5 +52,11 @@
 
 ### 9.2 Member
 
+## 10. Abstract Class and Promotion&Demotion
+
+### 10.1 Abstract Class and Inner Class
+
+### 10.2 Promotion and Demotion
+
 ---
 
