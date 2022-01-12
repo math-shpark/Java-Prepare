@@ -64,5 +64,11 @@
 
 ### 11.2 Package
 
+## 12. Exception
+
+### 12.1 Exception
+
+### 12.2 Exception defined by user
+
 ---
 
